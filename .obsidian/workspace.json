@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "视图&导航 的大纲"
             }
+          },
+          {
+            "id": "a21b845f66f2fd5c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
