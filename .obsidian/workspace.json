@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "72ed69206725a91f",
@@ -162,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,9 @@
   },
   "active": "6c78cc33c98d1512",
   "lastOpenFiles": [
-    "欢迎.md",
-    "视图&导航.md"
+    "访问多个 Route.md",
+    "视图&导航.md",
+    "Pasted image 20251030183317.png",
+    "欢迎.md"
   ]
 }
